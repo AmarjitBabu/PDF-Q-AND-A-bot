@@ -1,1 +1,11 @@
+2)In the project folder create a folder named LaMini-T5-738M in this folder and download the model files from this link
 
+https://huggingface.co/MBZUAI/LaMini-T5-738M/tree/main
+
+OR
+
+if you have git in the system you can clone the repo
+
+then just open terminal in your project folder and execute this command in terminal
+
+git clone https://huggingface.co/MBZUAI/LaMini-T5-738M
