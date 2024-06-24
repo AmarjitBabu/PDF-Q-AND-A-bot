@@ -5,7 +5,7 @@ steps to download this project
 
 1)create a folder for your project
 
-2)In the project folder create a folder named LaMini-Flan-T5-248M in this folder and download the model files from this link
+2)In the project folder create a folder named LaMini-T5-738M in this folder and download the model files from this link
 
 https://huggingface.co/MBZUAI/LaMini-T5-738M/tree/main
 
